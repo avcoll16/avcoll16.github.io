@@ -1,7 +1,15 @@
-```
-      ---
-      title: "My Website"
-      ---
+
+---
+title: "About Me"
+---
       
-      Hello, Website!
-```
+      
+      Welcome to my Webpage! I am a second year graduate student in the department of statistics at Iowa State University. I plan to complete my masters degree in June 2022. I am from Upstate New York, which is where I attended   St. Lawrence University and completed my Bachelor's degree in Mathematics and Statistics in 2020. 
+      
+  [Click here to visit ISU graduate page ](https://www.stat.iastate.edu/people/abigail-collins)
+      
+<iframe src="https://drive.google.com/file/d/1PoXjbeknCG4XfL7KPQoAHyb3gPaZdmyB/preview" width="640" height="480" allow="autoplay"></iframe>
+      
+      
+
+
